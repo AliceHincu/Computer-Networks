@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Sakura/Desktop/Facultate/Semestru III/Retele/lab/lab1-c/1-server.c
+stdio.h
+-
+sys/socket.h
+-
+netinet/ip.h
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+

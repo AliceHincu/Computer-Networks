@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Sakura/Desktop/Facultate/Semestru III/Retele/lab/lab1-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Sakura/Desktop/Facultate/Semestru III/Retele/lab/lab1-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Sakura/Desktop/Facultate/Semestru III/Retele/lab/lab1-c/cmake-build-debug/CMakeFiles/lab1_c.dir

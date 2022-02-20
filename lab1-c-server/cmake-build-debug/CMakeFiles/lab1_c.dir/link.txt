@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/lab1_c.dir/2-server.c.o CMakeFiles/lab1_c.dir/1-client.c.o  -o lab1_c.exe -Wl,--out-implib,liblab1_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
