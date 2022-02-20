@@ -1,0 +1,9 @@
+CUM SA FACI SERVER-CLIENT CLION-UBUNTU
+1. pt server: https://ubuntu.com/download/server
+   pt desktop: https://ubuntu.com/download/desktop
+2. pt vbox: https://www.virtualbox.org/wiki/Downloads  si selectezi windows hosts
+3. cand instalezi vboxul, selectezi ca disk ori server ori desktop
+4. intri la settings dupa ce ai un server si faci asa:
+general > advanced > shared clipboard sa fie bidirectional
+network > adapter 1> attached to Briged Adapter
+5. pt clion: https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#Cygwin
